@@ -23,3 +23,44 @@ Di awal proses belajar, jangan langsung menganggap AI sebagai asisten, melainkan
 Saat menemukan error, jangan langsung menyalin pesan error dan meminta solusi. Cobalah bertanya, *"saya menemukan error seperti ini, kira-kira apa penyebabnya?"* atau saat membaca dokumentasi, *"saya menemukan bagian dokumentasi ini, tolong jelaskan dalam bahasa yang lebih mudah dipahami."*
 
 Setelah fondasi sudah kuat dan pemahaman sudah matang, barulah kita bisa mengeksplorasi AI sebagai asisten coding untuk mempercepat dan mengoptimalkan cara kerja kita. Dengan begitu, AI menjadi alat bantu yang memperkuat kemampuan kita, bukan melemahkan proses belajar.
+
+---
+
+akan fokus ke roadmap fullstack web development
+karena di era sekarang, kemampuan fullstack menjadi nilai plus
+dan mungkin kewajiban untuk developer pemula
+selain itu, bisa membuka peluang semakin lebar lagi
+akan membahas belajar mulai dari mana
+asumsinya untuk pemula yang mau mulai membuat website
+
+kira kira apa yang harus dipelajari di awal, apa frontend dulu atau backend dulu
+ada dua pendekatan saat membuat website secara umum, bisa dulu frontend atau bisa duluan beckend
+mana dulu yang benar, jawabannya sebetulnya tergantung, it depends.gak ada yang salah mulai dari mana dulu
+jika kita milih beckend dulu, fokusnya akan merancang bisnis logic, database dan api. pendekatan ini bagus jika kita ingin membuat beberapa aplikasi sebagai frontendnya, misalnya website atau mobile. dengan pendekatan ini akan lebih kokoh fondasi dari aplikasinya, karena logika dan struktur datanya sudah jelas diawal, keamanan juga lebih baik karena sudah terdefinisi dari awal. cocok untuk membuat aplikasi kompleks yang banyak logic dan aturan bisnis didalamnya.
+
+kebanyakan pemula akan bingung membuat website yang tidak ada tampilannya dulu, apalagi yang tampilannya sederhana. misalnya web portfolio, company profile atau katalog prodek. makannya pendekatan membuat frontendnya dulu juga tidak salah. karena fokusnya di ui dan uxnya, apa yang dilihat, dirasakan, oleh developer atau usernya nanti.
+
+disini akan dibahas dibagian frontendnya dulu. supaya pemula terbayang dan kelihatan hasilnya seperti apa.
+apa aja yang harus dipelajari
+yang pertama harus menguasai dasar dasar pembuatan website dengan sangat kuat
+ada tiga komponen utama pembentuk website yang harus dikuasai
+html, css dan js
+tiga ini harus dikuasai oleh frontend atau beckend developer.
+
+HTML
+yang akan dipelajari adalah struktur dasar html, ada elemen apa aja, belajar semantik html, jadi tidak cuma menghapal tagnya, misal div, paragraf
+tapi harus paham juga kapan pakai tag lain yang semantik, seperti header, section, nav dan lainnya.
+karena html adalah pembentuk struktur dari halaman dan kontennya, ada tulisan, gambar, link, list dan komponen lain. termasuk seo atau search engine optimisation, dan juga aksesibiliti dari suatu website.
+
+css casceding style sheet
+akan mempelajari caranya styling yang rapi, supaya website tidak cuma berfungsi tapi juga cantik dan enak dilihat.
+belajar dari mulai selektor, properti yang sering digunakan, ada konsep box model, float dan potitioning. belajar layouting halaman dengan lebih kompleks, menggunakan flex box dan grid. pahami responsive web design dimana website harus tampil bagus disetiap ukuran layar, karena device untuk mengakses suatu website itu ada banyak, bisa laptop, desktop, hp,tablet, dan device lain. makannya harus tampil bagus di semua lebar layar device. supaya halaman website lebih bagus dan interaktif, belajar yang namanya transisi dan animasi, dengan fitur modern css lainnya. karena sekarang css sangat sakti, fitur fitur modernnya cukup oke untuk dipelajari. kalau mau lebih keren lagi, juga bisa belajar framework css seperti tailwind atau bootstrap. 
+bukan berarti tidak perlu paham dasar css, tapi supaya cara kerja lebih cepat dan punya standar desiain yang lebih bagus. framerowk membantu menulis css dengan lebih efisien.
+
+setelah belajar keduanya, pastikan paham dengan cara membuat sesuatu dari hasil belajar. setiap belajar, selalu praktekan apa yang baru dipelajari dan pahami, minimal buat website portfolio untuk diri sendiri yang bisa ditunjukan ke orang lain.
+
+caranya? adalah belajar yang namanya git, sebuah tools untuk mengelola perubahan code atau yang disebut version control system. tools ini bisa menyimpan seluruh checkpoin dari apa yang sudah dikerjakan di code kita. kita tidak perlu takut kalau ada perubahan dari code, nanti codenya bakal ketimpa. untuk nyimpan codenya supaya tidak hilang, bisa disimpan kesebuah layanan bernama github. istilahnya adalah instagramnya para programmer, instagram digunakan untuk menyimpan gambar dan video, sedangkan github digunakan untuk menyimpan code. code yang sudah dikelola oleh tools git di komputer. github juga bisa membuat website yang sudah dibuat dikomputer jadi bisa dilihat oleh semua orang dengan gratis.
+
+git dan github fungsinya tidak hanya mengelola code sendiri,tapi bisa juga untuk kolaborasi dengan programmer lain, deploy otomatis, project management, dan masih banyak lagi kemampuan github lainnya.
+
+intinya, cukup pahami kalau git dan github sebagai cara mengelola code pribadi aja dulu, karena ini adalah tools yang penting untuk dikuasai diawal.
