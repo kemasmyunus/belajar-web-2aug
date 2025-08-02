@@ -1,37 +1,25 @@
-dunia web adalah dunia yang menyenangkan
-cepat berubah
-dulu belajar coding cukup
-tapi sekarang beda
-fakta dilapangan jumlah lulusan it banyak
-apalagi setelah pandemi
-adanya tech winter
-perudahaan melakukan layouf dan tidak lagi gencar merekrut pekerja
-membuat persaingan makin ketat
-tidak hanya dengan lulusan baru tapi juga yang punya pengalaman
-ditambah ada ai yang sekarang makin canggih dan bisa bantu programmer coding
-ini justru membuat sebagian orang khawatir
-apa kita sebagai developer masih dibutuhkan
-apa ai akan mengganti programmer
-jawabannya kita masih dibutuhkan
-tapi kita tidak bisa mengandalkan skill dasar aja
-kita harus naik level dan lebih pinter dan adaftif dan punya skill yang lebih komplit
-ai ini adalah topik yang super penting
-di era sekarang kemampuan menggunakan ai udah kaya skill wajib untuk setiap developer
-ini adalah sebuah tools untuk membantu kita meningkatkan produktifitas
-tapi justru tidak disarankan untuk pemula untuk langsung pakai ai sebagai jalan pintas untuk membuat code.
-alasannya
-kehilangan proses berfikir dan berjuang yang sangat penting.
-proses belajar seorang programmer sebenarnya terjadi saat kita sedang kebingungan, pusing debuging, ai yang ngasih jawaban langsung akan menghilangkan momen pembentukan mental model dan intuisi problem solving kita
-alasan kedua
-akan kehilangan kesenangan dalam ngoding. ada kepuasan tersendiri saat kita berhasil menyelesaikan masalah sulit dengan usaha kita sendiri. kepuasan ini adalah bahan bakar untuk belajar
-alasan ketiga
-terjebak dalam ilusi kompetensi. kita bisa membuat aplikasi tapi kita tidak paham, codenya untuk apa. tidak bisa modif, dan tidak bisa benerin saat ada error.
+# Menghadapi Dunia Web dan AI: Tantangan dan Strategi untuk Developer Masa Kini
 
-cara menggunakan ai yang benar
-diawal jangan anggap ai sebagai asisten, tapi anggap sebagai teman diskusi atau sebagai pembimbing
-daripada tanya "buatkan saya halaman"
-coba tanya "coba jelaskan dengan analogi sederhana dari ..."
-bisa tanya soal api, variabel, looping. jadi tanya defenisi-defenisinya.
-daripada di copy paste sebuah error. coba tanya, misal saya ketemu error ini, beri tau saya apa kemungkinan penyebab dari error semacam itu.
-atau saat memahami dokumentasi, misal saya ketemu dokumentasi, tolong jelaskan dengan bahasa yang lebih sederhana.
-setelah belajar. fundamental kuat, baru bisa mulai eksplorasi ai untuk coding assisten, untuk mempercepat dan mengoptimalkan cara coding.
+Dunia web adalah dunia yang menyenangkan, namun juga sangat cepat berubah. Dahulu, belajar coding dengan kemampuan dasar saja sudah cukup untuk mulai berkarier sebagai developer. Namun kini, kondisinya sangat berbeda.
+
+Fakta di lapangan menunjukkan bahwa jumlah lulusan IT meningkat tajam, terutama setelah pandemi. Situasi ini diperparah dengan munculnya fenomena *tech winter*, di mana banyak perusahaan teknologi melakukan pemutusan hubungan kerja (layoff) dan tidak lagi aktif merekrut pekerja baru. Hal ini membuat persaingan semakin ketat, bukan hanya di antara lulusan baru, tetapi juga dengan mereka yang sudah memiliki pengalaman kerja.
+
+Selain itu, kemajuan teknologi kecerdasan buatan (AI) juga semakin pesat. Kini, AI dapat membantu programmer dalam menulis kode, yang di satu sisi menjadi peluang besar, namun di sisi lain menimbulkan kekhawatiran. Pertanyaan pun muncul: apakah developer masih dibutuhkan? Apakah AI akan menggantikan peran programmer sepenuhnya?
+
+Jawabannya adalah: **kita masih dibutuhkan.** Namun, kita tidak bisa lagi hanya mengandalkan keterampilan dasar. Kita harus meningkatkan level, menjadi lebih cerdas, adaptif, dan memiliki keterampilan yang lebih lengkap. AI bukanlah ancaman jika kita tahu cara memanfaatkannya. Justru, di era sekarang, kemampuan menggunakan AI menjadi keterampilan penting yang wajib dimiliki setiap developer, karena ia adalah *tools* yang dapat meningkatkan produktivitas.
+
+Namun, bagi pemula, **tidak disarankan** menggunakan AI sebagai jalan pintas untuk membuat kode. Ada beberapa alasan penting di balik saran ini.
+
+Pertama, penggunaan AI secara langsung bisa membuat kita kehilangan proses berpikir dan berjuang yang sangat penting dalam pembentukan pola pikir seorang programmer. Proses belajar sejati justru terjadi ketika kita merasa bingung, frustrasi saat debugging, dan akhirnya menemukan solusi sendiri. AI yang langsung memberikan jawaban akan menghilangkan momen pembentukan *mental model* dan intuisi dalam menyelesaikan masalah.
+
+Kedua, kita bisa kehilangan kesenangan dalam ngoding. Ada kepuasan tersendiri ketika berhasil menyelesaikan masalah sulit dengan usaha sendiri. Kepuasan inilah yang menjadi bahan bakar untuk terus belajar dan berkembang.
+
+Ketiga, ada risiko terjebak dalam ilusi kompetensi. Kita mungkin bisa membuat aplikasi, tetapi tidak memahami kode yang digunakan, tidak tahu cara memodifikasinya, dan bingung saat terjadi error. Ini tentu berbahaya dalam jangka panjang.
+
+Lalu bagaimana cara menggunakan AI dengan benar?
+
+Di awal proses belajar, jangan langsung menganggap AI sebagai asisten, melainkan sebagai teman diskusi atau pembimbing. Misalnya, alih-alih berkata *"buatkan saya halaman"*, lebih baik bertanya *"coba jelaskan dengan analogi sederhana tentang..."*. Kita bisa bertanya mengenai API, variabel, perulangan, dan definisi dasar lainnya.
+
+Saat menemukan error, jangan langsung menyalin pesan error dan meminta solusi. Cobalah bertanya, *"saya menemukan error seperti ini, kira-kira apa penyebabnya?"* atau saat membaca dokumentasi, *"saya menemukan bagian dokumentasi ini, tolong jelaskan dalam bahasa yang lebih mudah dipahami."*
+
+Setelah fondasi sudah kuat dan pemahaman sudah matang, barulah kita bisa mengeksplorasi AI sebagai asisten coding untuk mempercepat dan mengoptimalkan cara kerja kita. Dengan begitu, AI menjadi alat bantu yang memperkuat kemampuan kita, bukan melemahkan proses belajar.
